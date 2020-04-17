@@ -8,5 +8,5 @@ This directory contains all data related to BigData, etc.
 - charts/ : Contain useful charts done manually or by Tensorboard
 
 
-PD: The main idea is to link the information in this directory to elsewhere in the local system. This is very good to 
+PD: The main idea is to link the information in this directory to elsewhere in the local system. This is very good to
 have a local storagement grouped up if one day I want to mount filesystems into another machine/s.
