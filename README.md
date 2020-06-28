@@ -1,4 +1,4 @@
-# WORKDIR
+# ML_CHRISTMAS
 
 This directory contains all data related to BigData, etc.
 
